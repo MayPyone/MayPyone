@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maypyone" alt="maypyone" /></a> </p>
 
-- 🔭 I’m currently working on [School-library](https://github.com/MayPyone/School-Library)
+- 🌱 I’m currently learning **MySQL**
 
-- 🌱 I’m currently learning **Ruby**
+- 👨‍💻 All of my projects are available at [https://maypyone.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MayPyone/My_Portfolio](https://github.com/MayPyone/My_Portfolio)
-
-- 💬 Ask me about **HTML and CS, JavaScript and  Java SE**
+- 💬 Ask me about **HTML and CS, JavaScript, Ruby and  Java SE**
 
 - 📫 How to reach me **maypyone015@gmail.com**
 
