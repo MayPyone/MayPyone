@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maypyone" alt="maypyone" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://maypyone.netlify.app/)
 
