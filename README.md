@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://maypyone.netlify.app/)
 
-- 💬 Ask me about **HTML and CS, JavaScript, Ruby, PostgreSQL and  Java SE**
+- 💬 Ask me about **HTML and CS, JavaScript, Ruby and PostgreSQL**
 
 - 📫 How to reach me **maypyone015@gmail.com**
 
