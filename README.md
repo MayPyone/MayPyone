@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maypyone" alt="maypyone" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://maypyone.netlify.app/)
 
-- 💬 Ask me about **HTML and CS, JavaScript, Ruby and PostgreSQL**
+- 💬 Ask me about **HTML and CS, JavaScript,Reactjs, React Native, Ruby and PostgreSQL**
 
 - 📫 How to reach me **maypyone015@gmail.com**
 
